@@ -10,7 +10,7 @@
   <img src="./images-readme/Screenshot_1.png">
   <li>Colocar as pastas "app-bemol", "bemol-server-php" e "bemol" na pasta www do wamp</li>
   <img src="./images-readme/Screenshot_4.png">
-  <li>Alterar o IP de Requisição das APIS do arquivo "App.js" da pasta "app-bemol"</li>
+  <li>Alterar o IP de Requisição das APIS do arquivo "App.tsx" da pasta "app-bemol" para o da sua rede.</li>
   <img src="./images-readme/Screenshot_2.png">
   <img src="./images-readme/Screenshot_3.png">
 </ul>
