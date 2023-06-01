@@ -1,9 +1,16 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
 Levando em consideração que uma das principais prioridades é a escalabilidade, a melhor opção acaba por ser Cloud.
 
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução,
+responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe,
+a ferramenta é ágil?
 Para o desenvolvimento eu utilizaria o Jira. Sim, a ferramenta é ágil.
 
+3. Você se sente capaz de liderar esta equipe? Por quê?
 Sinto-me sim capaz de liderar a  equipe, pois já tive outras experiências em uma posição de liderança na qual eu tive boa performance.
 
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
 Na ideia do projeto em si não tenho nenhuma melhoria a fazer, a não ser algumas validações como duplicidade de conta e etc.
 
+5. Acha válido esse desafio para o processo que está participando?
 Sim, acho o desafio válido para o processo.
