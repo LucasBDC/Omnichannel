@@ -7,10 +7,13 @@
 <h2>Instruções</h2>
 <ul>
   <li>Implementar o Schema do Omni no BD(MySQL)</li>
-  <img src="https://prnt.sc/xBQstp_uOuc-">
+  <img src="./images-readme/Screenshot_1.png">
   <li>Colocar as pastas "app-bemol", "bemol-server-php" e "bemol" na pasta www do wamp</li>
+  <img src="./images-readme/Screenshot_4.png">
   <li>Alterar o IP de Requisição das APIS do arquivo "App.js" da pasta "app-bemol"</li>
+  <img src="./images-readme/Screenshot_2.pnh">
+  <img src="./images-readme/Screenshot_3.pnh">
 </ul>
-Primeiro deve-se implementar o schema do Omni.
-Para fazer o projeto funcionar, os arquivos devem ser jogados dentro da pasta www do wamp ou do httdocs do xampp para que os arquivos viacep.php e o authentication.php funcionem como uma api. <br>
-Após isso é necessário alterar o IP de requisição dessas APIS e colocar o IP da sua conexão.
+
+<h2>Agradecimentos</h2>
+<p>Acabei por aprender muito com o desafio e sou grato pela oportunidade de fazê-lo, espero que possamos continuar e que eu possa colaborar com a equipe futuramente.</p>
