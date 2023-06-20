@@ -15,5 +15,3 @@
   <img src="./images-readme/Screenshot_3.png">
 </ul>
 
-<h2>Agradecimentos</h2>
-<p>Acabei por aprender muito com o desafio e sou grato pela oportunidade de fazê-lo, espero que possamos continuar e que eu possa colaborar com a equipe futuramente.</p>
