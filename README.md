@@ -1,4 +1,4 @@
-# Desafio Bemol
+# Omnichannel
 
 <h2>Objetivo</h2>
 <p>Tendo em vista a necessidade do omnichannel, fora criado um aplicativo e um site que recebem suas informações de um mesmo banco de dados.
